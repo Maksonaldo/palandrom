@@ -1,0 +1,85 @@
+---
+Язык: Cpp
+AccessModifierOffset: -4
+AlignAfterOpenBracket: AlwaysBreak
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+AlignEscapedNewlines: Слева
+AlignOperands: false
+AlignTrailingComments: true
+AllowAllParametersOfDeclarationOnnextline: true
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Нет
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakAfterReturnType: None
+AlwaysBreakBeforeMultilineStrings: true
+AlwaysBreakTemplateDeclarations: true
+BinPackArguments: false
+BinPackParameters: false
+Бандажирование:
+  Послекласс: ложь
+  AfterControlStatement: false
+  Послесловие: ложь
+  AfterFunction: true
+  AfterNamespace: false
+  Послестроение: ложь
+  AfterUnion: ложь
+  AfterExternBlock: false
+  Передматчем: ложь
+  BeforeElse: ложь
+  Отступы: ложь
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+  SplitEmptyNamespace: true
+BreakBeforeBinaryOperators: Все
+BreakBeforeBraces: Custom
+BreakBeforeInheritanceComma: false
+BreakBeforeTernaryOperators: true
+BreakConstructorInitializersBeforecomma: false
+BreakConstructorInitializers: BeforeColon
+BreakStringLiterals: true
+ColumnLimit: 80
+CompactNamespaces: true
+ConstructorInitializerAllOnOneLineoroneperline: true
+ConstructorInitializerIndentWidth: 4
+ContinuationIndentWidth: 8
+Cpp11BracedListStyle: true
+DerivePointerAlignment: false
+ExperimentalAutoDetectBinPacking: false
+FixNamespaceComments: false
+IncludeBlocks: Сохранить
+IndentCaseLabels: false
+IndentPPDirectives: Нет
+Ширинаотступа : 4
+IndentWrappedFunctionNames: false
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1
+NamespaceIndentation: Нет
+Пенальти: 2
+PenaltyBreakBeforeFirstCallParameter: 19
+Штраф: 300
+Пенальтибрейкфирстлесс: 120
+PenaltyBreakString: 1000
+PenaltyExcessCharacter: 1000000
+Штрафнаялиния: 60
+ОриентацияУказателя: Влево
+ReflowComments: true
+SortIncludes: true
+SortUsingDeclarations: true
+SpaceAfterCStyleCast: false
+SpaceAfterTemplateKeyword: true
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: false
+SpacesBeforeTrailingComments: 1
+SpacesInAngles:  false
+SpacesInContainerLiterals: false
+SpacesInCStyleCastParentheses: false
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+Standard:        Cpp11
+TabWidth:        8
+UseTab:          Never
+...
