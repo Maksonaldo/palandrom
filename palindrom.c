@@ -3,7 +3,7 @@
 //проверка на палиндром----------------------------------------
 int check(char str[]) {
   int i, length;
-  length = strlen(str);
+     length = strlen(str);
   if (length == 1)
     return 0;
   for (i = 0; i < length; i++)
